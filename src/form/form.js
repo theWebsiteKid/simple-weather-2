@@ -8,14 +8,16 @@ const Form = () =>
                 <input
                     type="text"
                     name="city"
-                    placeholder="Enter City..." />
+                    placeholder="Enter City..."
+                />
             </label>
             <label>
                 Country:
                 <input
                     type="text"
                     name="country"
-                    placeholder="Enter Country..." />
+                    placeholder="Enter Country..."
+                />
             </label>
             <input type="submit" value="submit" />
         </form>
